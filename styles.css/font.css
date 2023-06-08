@@ -1,0 +1,28 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,900&family=Rubik+Pixels&display=swap');
+
+
+#box{
+    border: thin solid;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    line-height: 2;
+    /* letter-spacing: 10px; */
+    /* word-spacing: 50px; */
+    text-decoration: line-through pink double;
+    text-decoration: none;
+    text-align: justify;
+   columns: 3;
+   column-gap: 50px;
+   column-rule: solid 10px pink;
+   text-indent: 70px;
+   
+}
+#box:hover{
+    color: blueviolet;
+
+}

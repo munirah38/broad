@@ -1,0 +1,108 @@
+#body{
+    background-color: rgb(24, 19, 19);
+    opacity: 20;
+}
+
+#box{
+    /* border: thick solid; */
+    width: 30%;
+    margin-top: 25%;
+    padding: 10px 0;
+    text-align: center;
+    margin-inline: auto;
+    background-color: #333;
+    color: #fff;
+
+}
+
+#box1{
+    border: thick solid;
+    height: 100vh;
+    width: 100%;
+    margin: 0px auto;
+    background-image: url('../parallax4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    justify-content: center;
+    
+}
+#box2{
+    border: thin;
+    background-color: white;
+    height: 30vh;
+    width: 100%;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: medium;
+    letter-spacing: 5px;
+    margin: 0px auto;
+    padding: auto;
+    justify-content: center;
+}
+
+#less{
+    border: thick solid;
+    width: 30%;
+    margin-top: 25%;
+    padding: 10px 10PX;
+    text-align: contain;
+    margin-inline: auto;
+    background-color: #a9a2a2;
+    color: #fff;
+    
+}
+
+#box3{
+    border: thick ;
+    height: 100vh;
+    width: 100%;
+    margin: 0px auto;
+    background-image: url('../parallax6.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    justify-content: cover;
+    
+
+}
+#box4{
+    border: thin solid;
+    height:25vh ;
+    width: 100%;
+    margin: 0px auto;
+    padding: auto;
+    box-sizing: border-box;
+    background-color:  black;
+}
+#box5 {
+    border: thin ;
+    height: 100vh;
+    width: 100%;
+    margin: 50px auto;
+    background-image: url('../parallax5.jpg');
+    background-size: 100%;
+    justify-content: center;
+    background-attachment: fixed;
+}
+#box6{
+    border: thin solid;
+    height:25vh ;
+    width: 100%;
+    margin: 0px auto;
+    padding: auto;
+    box-sizing: border-box;
+    
+}
+#box7{
+    border: thick solid;
+    height: 100vh;
+    width: 100%;
+    margin: 0px auto;
+    background-image: url('../parallax4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    justify-content: center;
+    
+}

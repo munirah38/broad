@@ -1,0 +1,25 @@
+body{
+    /* border: thin solid; */
+    background-color: #fff;
+}
+.topnav{
+    border: hidden;
+    background-color: #fff;
+ 
+}
+#giant{
+    background-color: #fff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    text-align: right;
+    text-indent: 90px;
+    padding:50px ;
+    margin-inline: auto;
+    margin-top: 20%;
+    font-style: normal;
+    font-weight: 50%;
+    font-size: x-large;
+    word-spacing: 10px;
+    letter-spacing: 0;
+    line-break: inherit;
+}
